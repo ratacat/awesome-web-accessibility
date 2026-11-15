@@ -29,6 +29,7 @@
 - [Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/) - The W3C's Web Accessibility Initiative with comprehensive resources.
 - [A11y Project](https://www.a11yproject.com/) - A community-driven effort to make web accessibility easier.
 - [WebAIM](https://webaim.org/) - Articles, tutorials, and tools for web accessibility.
+- [No Stairs Please](https://nostairsplease.com/) - Independent US & BC live-music venue directory tracking physical accessibility, step-free access, and load-in data (with a public [MCP server](https://nostairsplease.com/mcp)).
 
 ## Guidelines & Standards
 
